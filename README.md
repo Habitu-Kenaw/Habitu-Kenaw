@@ -12,7 +12,10 @@
 <a href="https://www.facebook.com/habitu.kenaw.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="habitu kenaw" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Programmig Languages:</h3>
+<h3 align="left">Skills</h3>
+<ul>
+	<li style="font-weight: bold; font-size: 20px; text-align: justify;">Languages</li>
+</ul>
 <p align="left">
 	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">
