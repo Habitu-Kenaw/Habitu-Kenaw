@@ -21,7 +21,7 @@
 <hr style="width: 100%; height: 5px; color: gray; background: gray;">
 
 <ul>
-	<li style="font-weight: bold; font-size: 20px; text-align: justify;">Languages</li>
+	<li style="font-weight: bold; font-size: 25px; text-align: justify;">Languages</li>
 </ul>
 <p align="left">
 	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -31,7 +31,7 @@
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"></a>
 </p>
 <ul>
-	<li style="font-weight: bold; font-size: 20px; text-align: justify;">Front-End Development:</li>
+	<li style="font-weight: bold; font-size: 25px; text-align: justify;">Front-End Development:</li>
 </ul>
 <p align="left">
 	<a style="padding-left:100px;" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"></a>
@@ -40,7 +40,7 @@
 	
 </p>
 <ul>
-	<li style="font-weight: bold; font-size: 20px; text-align: justify;">Back-End Development:</li>
+	<li style="font-weight: bold; font-size: 25px; text-align: justify;">Back-End Development:</li>
 </ul>
 <p align="left">
 	<a style="padding-left:100px;" href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"></a>
@@ -48,14 +48,14 @@
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"></a>
 </p>
 <ul>
-	<li style="font-weight: bold; font-size: 20px; text-align: left;">Database:</li>
+	<li style="font-weight: bold; font-size: 25px; text-align: left;">Database:</li>
 </ul>
 <p align="left">
 	<a style="padding-left:10px;" href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"></a>
 	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 <h3 align="left">Github Status:</h3>
-<span><img style="width:10px; height:10px;" src="https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966"><span>Heloo</span></span>
+<span><img style="width:10px; height:10px;" src="https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966"><span style="font-size: 50px;">Github Status</span></span>
 <hr style="width: 100%; height: 5px; color: gray; background: gray;">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=habitu21kenaw&show_icons=true&locale=en&layout=compact" alt="habitu21kenaw" /></p>
