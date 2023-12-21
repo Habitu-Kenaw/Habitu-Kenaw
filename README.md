@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Habitu Kenaw</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer</h3>
+<p align="justify"> I have done my Computer Science bachelor's degree from Gambella University. I'm passionate about creating beautiful, functional, and user-friendly websites and applications. I constantly pushing myself to grasp and learn new technology quickly.</p>
+<ul>
+	<li style="font-weight: bold; font-size: 20px; text-align: justify;">I’m currently working on as a Full-Stack developer.</li>
+</ul>
+<hr style="width: 100%; height: 5px; color: gray; background: gray;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habitu21kenaw&label=Profile%20views&color=0e75b6&style=flat" alt="habitu21kenaw" /> </p>
 
