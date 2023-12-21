@@ -4,6 +4,11 @@
 <ul>
 	<li style="font-weight: bold; font-size: 20px; text-align: justify;">I’m currently working on as a Full-Stack developer.</li>
 </ul>
+<h3 align="left">About Me</h3>
+<hr style="width: 100%; height: 5px; color: gray; background: gray;">
+<ul>
+	<li style="font-weight: bold; font-size: 20px; text-align: justify;">Languages</li>
+</ul>
 <hr style="width: 100%; height: 5px; color: gray; background: gray;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habitu21kenaw&label=Profile%20views&color=0e75b6&style=flat" alt="habitu21kenaw" /> </p>
@@ -12,12 +17,6 @@
 
 <hr style="width: 100%; height: 5px; color: gray; background: gray;">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/habitukenaw2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="habitu-kenaw" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/habitu-kenaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="habitu-kenaw" height="30" width="40" /></a>
-<a href="https://www.facebook.com/habitu.kenaw.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="habitu kenaw" height="30" width="40" /></a>
-</p>
 
 <hr style="width: 100%; height: 5px; color: gray; background: gray;">
 <h3 align="left">Skills</h3>
