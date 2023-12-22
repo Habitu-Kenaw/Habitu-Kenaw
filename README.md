@@ -3,7 +3,7 @@
 <img width="1024" height="230" src="https://swansoftwaresolutions.com/wp-content/uploads/2020/04/05.14.20-Meet-a-Full-Stack-Developer-Vlad-Ryba-1024x576.jpg">
 <p align="justify"> I have done my Computer Science bachelor's degree from Gambella University. I'm passionate about creating beautiful, functional, and user-friendly websites and applications. I constantly pushing myself to grasp and learn new technology quickly.</p>
 <ul>
-	<li style="font-weight: bold; font-size: 20px; text-align: justify;">I’m currently working on as a Full-Stack developer.</li>
+	<li style="font-weight: bold; font-size: 20px; text-align: justify;"> 🔭 I’m currently open for new job opportunity as Full-Stack developer.</li>
 </ul>
 <h3 align="left">About Me</h3>
 <hr style="width: 100%; height: 5px; color: gray; background: gray;">
