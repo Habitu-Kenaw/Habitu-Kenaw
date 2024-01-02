@@ -59,7 +59,7 @@
 	<a style="padding-left:10px;" href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"></a>
 	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
-<span><img style="width:35px; height:30px;" src="https://cdn-icons-png.flaticon.com/128/5249/5249378.png"><span style="font-size: 500px; ">Github Status</span></span>
+<span><img style="width:35px; height:30px;" src="https://cdn-icons-png.flaticon.com/128/5249/5249378.png"><span style="font-size: 5000px; ">Github Status</span></span>
 <hr style="width: 100%; height: 5px; color: gray; background: gray;">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=habitu21kenaw&show_icons=true&locale=en&layout=compact" alt="habitu21kenaw" /></p>
