@@ -14,12 +14,6 @@
 	<li style="font-weight: bold; font-size: 20px; text-align: justify;"> I grasp and learn new technology quickly</li>
 	<li style="font-weight: bold; font-size: 20px; text-align: justify;">I'm currently open for new job opportunity</li>
 </ul>
-<hr style="width: 100%; height: 5px; color: gray; background: gray;">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=habitu21kenaw&label=Profile%20views&color=0e75b6&style=flat" alt="habitu21kenaw" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habitu21kenaw" alt="habitu21kenaw" /></a> </p>
-
 
 <hr style="width: 100%; height: 5px; color: gray; background: gray;">
 <h3 align="left">Skills</h3>
@@ -74,12 +68,13 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40">
     </a>
 </div>
-
-<!-- GitHub Status -->
 <hr style="width: 100%; height: 5px; color: gray; background: gray;">
+<!-- GitHub Status -->
 <span><img style="width:35px; height:30px;" src="https://cdn-icons-png.flaticon.com/128/5249/5249378.png"><span><b>Github Status</b></span></span>
 <hr style="width: 100%; height: 5px; color: gray; background: gray;">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=habitu21kenaw&show_icons=true&locale=en&layout=compact" alt="habitu21kenaw" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=habitu-kenaw&label=Profile%20views&color=0e75b6&style=flat" alt="habitu-kenaw" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habitu-kenaw" alt="habitu-kenaw" /></a> </p>
+<hr style="width: 100%; height: 5px; color: gray; background: gray;">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=habitu21kenaw&show_icons=true&locale=en" alt="habitu21kenaw" /></p>
+
