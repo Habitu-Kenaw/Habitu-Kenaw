@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Habitu Kenaw</h1>
-<h3 align="left">A Passionate Front-End Web Developer</h3>
+<h3 align="left">A Passionate Full-Stack Web Developer</h3>
 <img width="1024" height="230" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*l1GgcqQ-pRxY5o1t">
 <p align="justify"> I have done my Computer Science bachelor's degree from Gambella University. I'm passionate about creating beautiful, functional, and user-friendly websites and applications. I constantly pushing myself to grasp and learn new technology quickly.</p>
 <ul>
